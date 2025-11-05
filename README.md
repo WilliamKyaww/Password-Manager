@@ -4,10 +4,10 @@ A lightweight command-line password manager that reads login credentials from a 
 
 ## Modules Used
 
-csv: Reads and parses account data from the CSV file
-os: Handles file paths and directory operations
-time: Controls clipboard timeout (10 seconds)
-pyperclip: Copies and clears passwords from the clipboard
+- csv: Reads and parses account data from the CSV file
+- os: Handles file paths and directory operations
+- time: Controls clipboard timeout (10 seconds)
+- pyperclip: Copies and clears passwords from the clipboard
 
 ## How It Works
 
